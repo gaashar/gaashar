@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @gaashar
-- 👀 I’m interested in Front End Development
-- 🌱 I’m currently learning React, and experimenting with UI layouts anf UX Designs
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Front End Development, with a passion for React
+- 💡 Crafting clean and efficient code to power user-friendly web experiences
+- 🌱 Embracing the open-source spirit and commited to continuous learning
+- 💞️ Ready for exciting collaborations and eager for your valuable feedback
 - 📫 How to reach me --> gaasha@gmail.com
 
 <!---
